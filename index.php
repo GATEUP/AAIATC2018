@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
 <html>
 <head>
-	<title>Find your GATE 2016 Marks | Gateoverflow.in</title>
+	<title>Find your AAI ATC 2018 Marks | Gateup.in</title>
     <!-- http://www.webgeekly.com/tutorials/jquery/how-to-switch-css-files-on-the-fly-using-jquery/ -->
     <link id="dynamic-css" rel="stylesheet" type="text/css" href="gatestyles-dark.css">
 </head>
@@ -12,7 +12,7 @@
 	<tr>
 		<td id="input-prompt" style="width: 50%; text-align: center;" align="center">
 			<div align="center">
-				<h1>For GATE Computer Science only.</h1>
+				<h1>For AAI ATC 2018.</h1>
 				<h1>Instructions:</h1>
 				<nav>
 				    <li>Login on <a target="_blank" href="http://appsgate.iisc.ernet.in/">(this page).</a></li>
