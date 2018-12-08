@@ -2,8 +2,8 @@ GATE2016_MarksEvaluator
 -
 A simple utility to find your AAI ATC 2018 marks based on gateoverflow keys.
 
-#### [gateup.in/mymarks](http://gateoverflow.in/mymarks/)
-#### [gateup.in/mymarks/VisualizeMarks.php](http://gateoverflow.in/mymarks/VisualizeMarks.php)
+#### [gateup.in/mymarks](https://www.gateup.in/2018/12/aai-atc-2018-marks.html)
+#### [gateup.in/mymarks/VisualizeMarks.php](https://www.gateup.in/2018/12/aai-atc-2018-marks.html)
 
 #### The data logged is a (uid: marks) pair.
 
