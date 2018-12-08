@@ -1,9 +1,9 @@
 GATE2016_MarksEvaluator
 -
-A simple utility to find your GATE'16 CSE marks based on gateoverflow keys.
+A simple utility to find your AAI ATC 2018 marks based on gateoverflow keys.
 
-#### [gateoverflow.in/mymarks](http://gateoverflow.in/mymarks/)
-#### [gateoverflow.in/mymarks/VisualizeMarks.php](http://gateoverflow.in/mymarks/VisualizeMarks.php)
+#### [gateup.in/mymarks](http://gateoverflow.in/mymarks/)
+#### [gateup.in/mymarks/VisualizeMarks.php](http://gateoverflow.in/mymarks/VisualizeMarks.php)
 
 #### The data logged is a (uid: marks) pair.
 
@@ -12,7 +12,7 @@ A simple utility to find your GATE'16 CSE marks based on gateoverflow keys.
 Instructions for use
 -
 
-- Login on the [GOAPS portal](http://appsgate.iisc.ernet.in/)
+- Login on the [AAI ATC PORTAL ](https://cdn.digialm.com//EForms/configuredHtml/1258/56785/login.html)
 - Click on ![View REsponse](view-response-button.png)
 - Copy the URL from the address bar
 - Paste it in the URL input box on [**this page**](http://127.0.0.1/GATE16/GATE16MarksEvaluator/index.php)
