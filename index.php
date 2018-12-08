@@ -87,9 +87,9 @@
 
 <div id="responses"></div>
 <div align="center" class="credits">
-    <div class="tabular"><p>Code:<br/><a href="https://github.com/AgarwalPragy/GATE2016_MarksEvaluator">[Github]</a></p></div>
-    <div class="tabular"><p>Author: Pragy Agarwal<br/><a href="https://www.facebook.com/profile.php?id=1644835049">[Facebook]</a> <a href="mailto:agar.pragy@gmail.com">[email]</a></p></div>
-    <div class = "tabular"><p>Special Thanks to:<br/>Arjun Suresh, Shyam Singh</p></div>
+    <div class="tabular"><p>Code:<br/><a href="https://github.com/GATEUP/AAIATC2018">[Github]</a></p></div>
+    <div class="tabular"><p>Author: Aditya Agrawal <br/><a href="https://www.facebook.com/profile.php?id=1644835049">[Facebook]</a> <a href="mailto:agar.pragy@gmail.com">[email]</a></p></div>
+  
 </div>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
