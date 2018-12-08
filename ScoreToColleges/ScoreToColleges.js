@@ -1,7 +1,5 @@
 function about(){
-	var author = "Pragy Agarwal (agar.pragy@gmail.com)";
-	var special_thanks = "Shyam Singh, Arjun Suresh";
-	var source = "https://github.com/AgarwalPragy/GATE2016_MarksEvaluator";
+	var source = "https://github.com/GATEUP/AAIATC2018";
 	// For easily verifying currently cached version
 	var version = "add notices";
 }
